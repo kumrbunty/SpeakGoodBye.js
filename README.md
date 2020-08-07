@@ -1,1 +1,0 @@
-# SpeakGoodBye.js
